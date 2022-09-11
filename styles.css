@@ -1,0 +1,18 @@
+.orange-color {
+    color: #FA804C;
+}
+
+.navbar-background {
+    background-color: #FFF9F4;
+}
+
+.buy-now-button {
+
+    background-image: linear-gradient(to bottom, #1216f3 0%, #16024b 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    cursor: pointer;
+
+}
